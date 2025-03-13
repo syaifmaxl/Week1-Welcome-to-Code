@@ -24,3 +24,5 @@ let nama = "",
 //code disini gunakan console.log untuk outputnya
 
 //soal selesai
+
+//test
